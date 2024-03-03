@@ -1,0 +1,6 @@
+- set up
+    - install dependencies [ @tensorflow/tfjs @tensorflow-models/qna react-loader-spinner]
+    - import dependencies
+    - handle questions
+    - handle answers
+- 
